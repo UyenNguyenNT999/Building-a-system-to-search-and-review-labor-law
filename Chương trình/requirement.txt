@@ -1,0 +1,7 @@
+pandas
+networkx
+unidecode
+flask
+flask_cors
+openpyxl
+re
